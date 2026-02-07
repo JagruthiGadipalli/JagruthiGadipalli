@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  🎓 Data Science Undergraduate | 🤖 Machine Learning & GenAI Enthusiast
+  🎓 Data Science | 🤖 Machine Learning & GenAI Enthusiast
 </h3>
 
 <h3 align="center">🔗 Connect with Me</h3>
